@@ -8,7 +8,7 @@ Simple checksum utilities for strings as a module.
 
 ## Install
 
-    npm install @henrypoydar/checksumifier
+    npm install @henrypoydar/checksumify
 
 ## Usage
 
