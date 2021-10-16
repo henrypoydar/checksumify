@@ -12,7 +12,7 @@ Simple checksum utilities for strings as a module.
 
 ## Usage
 
-    import checksumify from 'checksumify'
+    import checksumify from '@henrypoydar/checksumify'
 
     checksumify.crc32str("horse battery staple")
     // j5wkks
