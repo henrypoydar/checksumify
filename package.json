@@ -1,0 +1,19 @@
+{
+  "name": "@henrypoydar/checksumify",
+  "version": "1.0.0",
+  "description": "Simple checksum utilities for strings",
+  "license": "MIT",
+  "repository": "henrypoydar/checksumify",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "crc": "3.8.0",
+    "sha3": "2.1.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "9.1.3"
+  }
+}
