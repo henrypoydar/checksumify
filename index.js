@@ -1,4 +1,3 @@
-// import crc32 from "crc/crc32.js";
 import crc from 'crc';
 import { SHA3 } from 'sha3';
 import { nouns, adjectives } from "./haiku.js";
